@@ -8,8 +8,9 @@
 - AI (computer vision, nlp, recommendation 등) 분야에 대해 공부한다.
 
 ## 🙌 스터디원 
-김진영, 김중훈, 김은혜, 김성윤, 이하진, 이주현
-
+|김진영|김중훈|김은혜|김성윤|이하진|이주현|
+|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
+|([@zhenying2](https://github.com/zhenying2))|([@kjhoon7686](https://github.com/kjhoon7686))|([@gracekim027](https://github.com/gracekim027))|([@SungYune](https://github.com/SungYune))|([@bossacode](https://github.com/bossacode))|([@JulieOnIsland](https://github.com/JulieOnIsland))|
 
 ## 🕙 정기 팀 회의 시간
 
