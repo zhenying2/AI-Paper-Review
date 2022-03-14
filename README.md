@@ -38,6 +38,7 @@
 |:----------:|:----------|:----------|
 | 1주차 | <li>Deep learning</li> <li> Probabilistic machine learning and artificial intelligence</li> | <li>이하진</li> <li>김중훈</li> |
 | 2주차 | <li>The PageRank citation ranking: Bringing order to the web</li> <li>A Neural Probabilistic Language Model</li> | <li>김진영</li> <li>김은혜</li> |
+| 3주차 | <li>Sequence to Sequence Learning with Neural Networks</li> | <li>이주현</li> |
 
 <br/>
 </br>
