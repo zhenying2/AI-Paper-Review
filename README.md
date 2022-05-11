@@ -42,6 +42,7 @@
 | 4주차 | <li>Efficient Estimation of Word Representations in Vector Space</li> | <li>김성윤</li> |
 | - |중간고사 휴식 |-|
 | 5주차 | <li>Distributed Representations of Words and Phrases and their Compositionality</li> <li>Attention is all you need</li> | <li>김중훈</li> <li>이하진</li>|
+| 6주차 | <li>A Survey on Object Detection and Tracking Methods</li> <li>Bert: Pre-training of deep bidirectional transformers for language understanding</li> | <li>김진영</li> <li>이주현</li>|
 
 <br/>
 </br>
